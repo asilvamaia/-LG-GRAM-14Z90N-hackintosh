@@ -1,4 +1,4 @@
-# LG-GRAM-14Z90N-hackintosh
+# LG GRAM 14Z90N
 Hackintosh completo deste laptop. 
 Opencore Version: 0.94
 
